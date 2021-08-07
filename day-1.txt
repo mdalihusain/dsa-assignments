@@ -26,8 +26,5 @@ void fun(int n)
 }
 
 ANSWER =
-3
-2
-1
-3
+321123
 
